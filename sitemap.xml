@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.aspen710.com/</loc>
+  <lastmod>2018-12-03T19:17:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.aspen710.com/index.html</loc>
+  <lastmod>2018-12-03T19:17:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.aspen710.com/france.html</loc>
+  <lastmod>2018-12-03T19:15:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.aspen710.com/german.html</loc>
+  <lastmod>2018-12-03T19:15:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.aspen710.com/returns.html</loc>
+  <lastmod>2018-12-03T19:12:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.aspen710.com/privacypolicy.html</loc>
+  <lastmod>2018-12-03T19:10:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
